@@ -1,0 +1,13 @@
+.angular-google-map-container {
+
+    padding-bottom: 75%;
+    height: 585px;
+    overflow: hidden;
+}
+.angular-google-map{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100% !important;
+
+}
