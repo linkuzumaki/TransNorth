@@ -65,6 +65,19 @@ function config($stateProvider, $urlRouterProvider) {
 
 
 
+            .state('menu.crearLocalidades', {
+                url: '/crearLocalidades',
+                views: {
+                    'side-menu21': {
+                        templateUrl: 'client/templates/crearLocalidades.ng.html',
+
+                    }
+                }
+            })
+
+
+
+
 
 
             .state('menu.recorrido', {
